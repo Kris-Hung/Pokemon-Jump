@@ -21,7 +21,7 @@ There are five levels, 15 seconds per each level.
 Please help Xiaozhi find his hat.
 
 ### Level 1
-![GITHUB](https://imgur.com/zATsxtD"Level One")
+![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%201.png"Level One")
 The stairs are moving pretty slowly, you should be able to finish this level easily.
 
 ### Level 2
