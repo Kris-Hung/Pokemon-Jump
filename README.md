@@ -58,4 +58,4 @@ Lots of stairs start to rotate in pretty fast speed.
 
 
 ## Team
-Made by Faustin Chen, Emily Chen, HungTsz Tai and me :1
+Made by Faustine Chen, Emily Chen, HungTsz Tai and me :1
