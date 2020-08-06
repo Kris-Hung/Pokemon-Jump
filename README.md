@@ -3,8 +3,8 @@ This is a doodle jump like game made by OpenGL using C++.
 All the backgrounds and characters were drawn by using OpenGL functions.
 
 ## Running the Project
-*To run this project, just compile it using Dev-C++ and then it should work.
-*Make sure you have set up OpenGL in Dev-C++.
+* To run this project, just compile it using Dev-C++ and then it should work.
+* Make sure you have set up OpenGL in Dev-C++.
 
 ## Tool used
 * Dev-C++ (IDE)
