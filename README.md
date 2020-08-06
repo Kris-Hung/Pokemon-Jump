@@ -22,26 +22,32 @@ There are five levels, 15 seconds per each level.
 
 ### Story Line
 Please help Xiaozhi find his hat.
+
 <img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/start.png" width="250">
 
 ### Level 1
 The stairs are moving pretty slowly, you should be able to finish this level easily.
+
 <img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%201.png" width="250">
 
 ### Level 2
 Some stairs start to move horizontally.
+
 <img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%202.png" width="250">
 
 ### Level 3
 Some stairs move horizontally, and they move faster.
+
 <img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%203.png" width="250">
 
 ### Level 4
 Some stairs start to rotate.
+
 <img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%204.png" width="250">
 
 ### Level 5
 Lots of stairs start to rotate in a pretty fast speed.
+
 <img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%205.png" width="250">
 
 ### If you win
