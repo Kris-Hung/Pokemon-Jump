@@ -46,7 +46,7 @@ Some stairs start to rotate.
 <img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%204.png" width="250">
 
 ### Level 5
-Lots of stairs start to rotate in a pretty fast speed.
+Lots of stairs start to rotate in pretty fast speed.
 
 <img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%205.png" width="250">
 
