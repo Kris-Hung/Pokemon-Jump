@@ -17,7 +17,7 @@ Use the 'A' and 'D' to move the character, land on the stairs, don't fall!
 There are five levels, 15 seconds per each level.
 
 ### Story Line
-![GITHUB](https://imgur.com/glMnMB3"Level One")
+![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%208.png "Story Line")
 Please help Xiaozhi find his hat.
 
 ### Level 1
@@ -25,26 +25,26 @@ Please help Xiaozhi find his hat.
 The stairs are moving pretty slowly, you should be able to finish this level easily.
 
 ### Level 2
-![GITHUB](https://imgur.com/tGRWhHr"Level Two")
+![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%202.png "Level Two")
 Some stairs start to move horizontally.
 
 ### Level 3
-![GITHUB](https://imgur.com/d5j5P9y"Level Three")
+![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%203.png "Level Three")
 Some stairs move horizontally, and they move faster.
 
 ### Level 4
-![GITHUB](https://imgur.com/MZL7Vvh"Level Four")
+![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%204.png "Level Four")
 Some stairs start to rotate.
 
 ### Level 5
-![GITHUB](https://imgur.com/jFUp6fO"Level Five")
+![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%205.png "Level Five")
 Lots of stairs start to rotate in a pretty fast speed.
 
 ### If you win
-![GITHUB](https://imgur.com/wsaRwm6"Win")
+![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%206.png "Win")
 
 ### If you lose
-![GITHUB](https://imgur.com/h4UvoMs"Lose")
+![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%207.png "Lose")
 
 
 ## Team
