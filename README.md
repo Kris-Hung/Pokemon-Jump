@@ -19,7 +19,8 @@ There are five levels, 15 seconds per each level.
 ### Story Line
 Please help Xiaozhi find his hat.
 
-![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/start.png =250x250 "Story Line")
+![GITHUB](https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/start.png "Story Line")
+<img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/start.png" width="250" height="250">
 
 ### Level 1
 The stairs are moving pretty slowly, you should be able to finish this level easily.
