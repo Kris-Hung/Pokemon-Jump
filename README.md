@@ -1,4 +1,4 @@
-# Pokemon-Jump
+# Pokemon Jump
 This is a doodle jump like game made by OpenGL using C++.
 All the backgrounds and characters were drawn by using OpenGL functions.
 
